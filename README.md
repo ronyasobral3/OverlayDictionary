@@ -4,7 +4,7 @@ Aplicativo Android que exibe um botão flutuante persistente sobre qualquer app,
 
 ## Funcionalidades
 
-- **Overlay flutuante** — botão lateral arrastável, sempre visível sobre outros apps
+- **Overlay flutuante** — barra lateral arrastável, sempre visível sobre outros apps
 - **Modal de tradução** — painel inferior com campo de entrada, resultado e botão de fechar; pode ser arrastado verticalmente segurando o cabeçalho
 - **Tradução EN → PT** — integração com a [MyMemory API](https://api.mymemory.translated.net/)
 - **Cache LRU** — traduções recentes são reutilizadas sem nova chamada à API (até 50 entradas)
@@ -26,8 +26,8 @@ Aplicativo Android que exibe um botão flutuante persistente sobre qualquer app,
 ## Como usar
 
 1. Abra o app e conceda a permissão de sobreposição
-2. O botão **T** aparecerá na lateral da tela
-3. Toque no botão para abrir o modal de tradução
+2. A barra lateral aparecerá na lateral da tela
+3. Toque na barra para abrir o modal de tradução
 4. Digite ou copie um texto em inglês — a tradução é exibida automaticamente
 
 ## Build
